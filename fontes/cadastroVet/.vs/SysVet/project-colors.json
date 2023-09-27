@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e88f3974-5dca-4c48-8b69-9943f18de54e": {
+      "ProjectGuid": "e88f3974-5dca-4c48-8b69-9943f18de54e",
+      "DisplayName": "ui_wfa_SysVet",
+      "ColorIndex": 0
+    },
+    "8578072c-5850-4e61-9933-46f2e586444b": {
+      "ProjectGuid": "8578072c-5850-4e61-9933-46f2e586444b",
+      "DisplayName": "cadastroClientes",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "54572ec7-61f8-4f7e-b12d-7c1633c3a9f3": {
+      "ProjectGuid": "54572ec7-61f8-4f7e-b12d-7c1633c3a9f3",
+      "DisplayName": "cls_model",
+      "ColorIndex": 2
+    },
+    "095c7ead-365e-43ec-939d-e2c3dc6ef0d9": {
+      "ProjectGuid": "095c7ead-365e-43ec-939d-e2c3dc6ef0d9",
+      "DisplayName": "cls_DAL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
