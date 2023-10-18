@@ -1,6 +1,0 @@
-C:\Users\gaaby\Downloads\PROJETO-20230911T213956Z-001\PROJETO\sysVet\fontes\cadastroVet\cls_model\obj\Debug\cls_model.csproj.CoreCompileInputs.cache
-C:\Users\gaaby\Downloads\PROJETO-20230911T213956Z-001\PROJETO\sysVet\fontes\cadastroVet\cls_model\bin\Debug\cls_model.dll
-C:\Users\gaaby\Downloads\PROJETO-20230911T213956Z-001\PROJETO\sysVet\fontes\cadastroVet\cls_model\bin\Debug\cls_model.pdb
-C:\Users\gaaby\Downloads\PROJETO-20230911T213956Z-001\PROJETO\sysVet\fontes\cadastroVet\cls_model\obj\Debug\cls_model.dll
-C:\Users\gaaby\Downloads\PROJETO-20230911T213956Z-001\PROJETO\sysVet\fontes\cadastroVet\cls_model\obj\Debug\cls_model.pdb
-C:\Users\gaaby\Downloads\PROJETO-20230911T213956Z-001\PROJETO\sysVet\fontes\cadastroVet\cls_model\obj\Debug\cls_model.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Projetos\SysVET\fonts\solSysVET\clModel\bin\Debug\clModel.dll
+C:\Projetos\SysVET\fonts\solSysVET\clModel\bin\Debug\clModel.pdb
+C:\Projetos\SysVET\fonts\solSysVET\clModel\obj\Debug\clModel.csproj.AssemblyReference.cache
+C:\Projetos\SysVET\fonts\solSysVET\clModel\obj\Debug\clModel.csproj.CoreCompileInputs.cache
+C:\Projetos\SysVET\fonts\solSysVET\clModel\obj\Debug\clModel.dll
+C:\Projetos\SysVET\fonts\solSysVET\clModel\obj\Debug\clModel.pdb

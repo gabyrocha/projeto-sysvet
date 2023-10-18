@@ -1,0 +1,9 @@
+C:\Projetos\SysVET\fonts\solSysVET\clDal\bin\Debug\clDal.dll
+C:\Projetos\SysVET\fonts\solSysVET\clDal\bin\Debug\clDal.pdb
+C:\Projetos\SysVET\fonts\solSysVET\clDal\obj\Debug\clDal.csproj.AssemblyReference.cache
+C:\Projetos\SysVET\fonts\solSysVET\clDal\obj\Debug\clDal.csproj.CoreCompileInputs.cache
+C:\Projetos\SysVET\fonts\solSysVET\clDal\obj\Debug\clDal.dll
+C:\Projetos\SysVET\fonts\solSysVET\clDal\obj\Debug\clDal.pdb
+C:\Projetos\SysVET\fonts\solSysVET\clDal\bin\Debug\clModel.dll
+C:\Projetos\SysVET\fonts\solSysVET\clDal\bin\Debug\clModel.pdb
+C:\Projetos\SysVET\fonts\solSysVET\clDal\obj\Debug\clDal.csproj.CopyComplete
